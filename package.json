@@ -1,0 +1,23 @@
+{
+  "name": "trading-view-chart-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lightweight-charts": "^4.1.1",
+    "ccxt": "^4.1.87",
+    "@mui/material": "^5.15.1",
+    "@mui/x-date-pickers": "^6.18.5",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.1",
+    "dayjs": "^1.11.10"
+  }
+}
